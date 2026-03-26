@@ -401,10 +401,12 @@ export default function App() {
 
           <div className="contact-actions">
             <a
-              href="mailto:annonier.pierreaxel@gmail.com"
+              href="https://mail.google.com/mail/?view=cm&fs=1&to=annonier.pierreaxel@gmail.com"
+              target="_blank"
+              rel="noreferrer"
               className="btn btn-primary"
             >
-              Envoyer un email
+              📩 Envoyer un email
             </a>
 
             <a
